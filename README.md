@@ -106,3 +106,10 @@ Adding a executable
 
     Document
         Gems use RDoc to generate docs
+
+    Git
+      git init
+      git add . 
+      git commit xxxxx
+      git remote add origin https://github.com/romalopes/hello_anderson.git
+      git push https://github.com/romalopes/hello_anderson.git --all
