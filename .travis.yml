@@ -6,3 +6,5 @@ rvm:
 # rake spec
 # script: rspec spec
 # script: 'bundle exec rake'
+
+ script: bundle exec rspec spec
