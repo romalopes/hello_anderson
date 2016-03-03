@@ -4,5 +4,5 @@ rvm:
   - 2.0.0
 
 # rake spec
-rspec spec
+script: rspec spec
 # script: 'bundle exec rake'
