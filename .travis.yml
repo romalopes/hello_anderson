@@ -1,8 +1,8 @@
 language: ruby
-cache: bundler
+# cache: bundler
 rvm:
   - 2.0.0
 
 # rake spec
-script: rspec spec
+# script: rspec spec
 # script: 'bundle exec rake'
