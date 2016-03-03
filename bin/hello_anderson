@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'hello_anderson'
+puts HelloAnderson.say_hello()
