@@ -6,5 +6,10 @@ class HelloAndersonTest < Test::Unit::TestCase
     # assert_equal "Hello Anderson!", HelloAnderson.say_hello
     assert_equal "Hello Anderson!", HelloAnderson.say_hello
   end
+
+    def test_hello_anderson_Error
+    # assert_equal "Hello Anderson!", HelloAnderson.say_hello
+    assert_equal "Hello Anderson!aaaa", HelloAnderson.say_hello
+  end
 end
 
