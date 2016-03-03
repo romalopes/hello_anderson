@@ -5,3 +5,8 @@ end
 
 desc "Run tests"
 task :default => :test
+
+desc 'run Rspec specs'
+task :spec do
+  sh 'rspec spec'
+end
