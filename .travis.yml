@@ -7,6 +7,6 @@ rvm:
 # script: rspec spec
 # script: 'bundle exec rake'
 
-# script: bundle exec rspec spec
+script: bundle exec rspec spec
 
 # To validate http://lint.travis-ci.org
