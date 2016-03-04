@@ -104,6 +104,8 @@ Adding a executable
                create   .rspec
                create   spec/spec_helper.rb
 
+      rspec spec
+
     Document
         Gems use RDoc to generate docs
 

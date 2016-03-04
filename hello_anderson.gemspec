@@ -8,5 +8,5 @@
     s.email       = 'romalopes@yahoo.com.br'
     s.files       = ["lib/hello_anderson.rb"]
     s.homepage    = 'http://rubygems.org/gems/hello_anderson'
-    s.license       = 'AKRM'
+    s.license       = 'MIT'
   end
