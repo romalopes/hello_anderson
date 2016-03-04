@@ -4,9 +4,9 @@ Rake::TestTask.new do |t|
 end
 
 desc "Run tests"
-task :default => :test
+task :default => :spec
 
-desc 'run Rspec specs'
-task :spec do
-  sh 'rspec spec'
-end
+# desc 'run Rspec specs'
+# task :spec do
+#   sh 'rspec spec'
+# end
